@@ -4,8 +4,7 @@
 Why do false or incomplete beliefs persist in information-rich environments?  
 Is mislearning always a consequence of cognitive bias or can it arise even when individuals update beliefs rationally?
 
-In modern information environments, individuals are surrounded by data, yet misperceptions remain widespread. A common explanation points to motivated reasoning, heuristics, or ideological bias. While these forces matter, empirical evidence also shows that people do update beliefs when exposed to new information.
-This project explores a complementary explanation: **mislearning driven by biased sampling rather than biased inference**. Instead of modeling psychological deviations from rationality, the project treats learners as *normatively correct* and asks whether learning can still fail when exposure itself is systematically skewed—by algorithms, defaults, or friction.
+In modern information environments, individuals are surrounded by data, yet misperceptions remain widespread. A common explanation points to motivated reasoning, heuristics, or ideological bias. While these forces matter, empirical evidence also shows that people do update beliefs when exposed to new information. This project explores a complementary explanation: **mislearning driven by biased sampling rather than biased inference**. Instead of modeling psychological deviations from rationality, the project treats learners as *normatively correct* and asks whether learning can still fail when exposure itself is systematically skewed by algorithms, defaults, or friction.
 
 ---
 
