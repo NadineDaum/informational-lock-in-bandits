@@ -1,4 +1,4 @@
-# Biased Learning & Informational Lock-In  
+# Biased Learning & Informational Lock-In 🔐
 *A Bandit Model of Exposure Bias*
 
 Why do false or incomplete beliefs persist in information-rich environments?  
@@ -28,11 +28,11 @@ The goal is not to model human cognition, but to **stress-test rational learning
 
 ## Contents
 
-- `simulation.ipynb`  
-  Python notebook implementing all simulations and generating figures.
+- `informational-lock-in-bandits.ipynb`  
+  Python notebook implementing the simulation and generating figures.
 
 - `paper.pdf`  
-  Final project paper (Algorithmic Game Theory).
+  Final project paper (course: Algorithmic Game Theory, Fall 25).
 
 - `figures/`  
   Output figures used in the paper.
@@ -41,7 +41,7 @@ The goal is not to model human cognition, but to **stress-test rational learning
 
 ## Reproducibility
 
-All results can be reproduced by running `simulation.ipynb`.  
+All results can be reproduced by running `informational-lock-in-bandits.ipynb`.  
 Random seeds are fixed at the run level and varied across independent repetitions.  
 The code is written for clarity rather than performance and is fully self-contained.
 This project was completed as part of an Algorithmic Game Theory course at Hertie.
